@@ -72,3 +72,5 @@ You are a helpful assistant with access to tools_buffer.
 
 HUMAN:
 Can you help me understand how to use auto-summarize in tools_buffer?
+
+🟢 prompt saved to : full_prompt_20250531_141624_181fc71a.txt
